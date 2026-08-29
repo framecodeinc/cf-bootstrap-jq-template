@@ -2,7 +2,7 @@
   "name": "cf-boostrap-jq-template",
   "displayName": "ColdFusion Bootstrap - jQuery Project Template",
   "description": "Creates a new ColdFusion project template with Bootstrap and jQuery, with a file structure inspired by Blazor Web App.",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "publisher": "framecode",
   "icon": "cf-b-jq.png",
   "engines": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/framecodeinc/cf-boostrap-jq-template.git"
+    "url": "https://github.com/framecodeinc/cf-bootstrap-jq-template.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run package",

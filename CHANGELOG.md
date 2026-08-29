@@ -4,6 +4,14 @@ All notable changes to the "ColdFusion Bootstrap - jQuery Project Template" exte
 
 ---
 
+## [1.3.8] - 2026-08-28
+
+### Changed
+
+- Minor improvements and fixes.
+
+---
+
 ## [1.3.7] - 2026-08-28
 
 ### Changed
