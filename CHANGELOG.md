@@ -1,64 +1,90 @@
 # Change Log
 
-All notable changes to the "cf-boostrap-jq-template" extension will be documented in this file.
+All notable changes to the "ColdFusion Bootstrap - jQuery Project Template" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+---
+
+## [1.3.6] - 2026-08-28
+
+### Changed
+
+- Changed the extension's display name to "ColdFusion Bootstrap - jQuery Project Template".
 
 ---
 
 ## [1.3.5] - 2025-10-02
-### Added
-- Updated information
+
+### Changed
+
+- Updated the extension's information.
 
 ---
 
 ## [1.3.4] - 2025-10-02
-### Added
-- Corrected information
+
+### Fixed
+
+- Corrected the extension's information.
 
 ---
 
 ## [1.3.3] - 2025-10-02
+
+### Changed
+
+- Minor changes.
+
 ### Added
-- Minor changes
+
 - Added more information.
 
 ---
 
 ## [1.3.2] - 2025-10-02
+
 ### Added
-- Added Adobe ColdFusion Project Template login with Bootstrap/jQuery inspired by Blazor Web App.
-  Generates a Adobe ColdFusion project structure template with:
-  - Bootstrap 5.3.6, Bootstrap Icons 1.11.3 and jQuery 3.7.1 preconfigured.
+
+- Added a ColdFusion project template with login, using Bootstrap and jQuery, with a file structure inspired by Blazor Web App. Generates a ColdFusion project structure with:
+  - Bootstrap 5.3.6, Bootstrap Icons 1.11.3, and jQuery 3.7.1 preconfigured.
   - Sample pages with login and simple session handling.
-  - Sample pages inspired by a Blazor Web App.
+  - Sample pages inspired by Blazor Web App.
 
 ---
 
 ## [1.2.2] - 2025-06-22
+
+### Changed
+
+- Minor changes.
+
 ### Added
-- Minor changes
-- Added badges to extension.
+
+- Added badges to the extension.
 
 ---
 
 ## [1.1.2] - 2025-06-22
+
 ### Added
-- Added CHANGELOG file.
+
+- Added a CHANGELOG file.
 
 ---
 
 ## [1.0.2] - 2025-06-22
+
 ### Changed
+
 - Updated README with usage instructions and preview images.
 - Minor cleanup in `package.json`, `extension.ts`.
 
 ---
 
-- Initial release
 ## [1.0.1] - 2025-06-21
+
 ### Added
-- Initial release of the Adobe ColdFusion Project Template with Bootstrap/jQuery inspired by Blazor Web App.
-- Generates a Adobe ColdFusion project structure template with:
+
+- Initial release of the ColdFusion project template with Bootstrap and jQuery, with a file structure inspired by Blazor Web App.
+- Generates a ColdFusion project structure with:
   - Bootstrap 5.3.6 and jQuery 3.7.1 preconfigured.
-  - Sample pages inspired by a Blazor Web App.
+  - Sample pages inspired by Blazor Web App.
