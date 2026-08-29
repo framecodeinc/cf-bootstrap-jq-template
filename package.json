@@ -2,7 +2,7 @@
   "name": "cf-boostrap-jq-template",
   "displayName": "ColdFusion Bootstrap - jQuery Project Template",
   "description": "Creates a new ColdFusion project template with Bootstrap and jQuery, with a file structure inspired by Blazor Web App.",
-  "version": "1.3.6",
+  "version": "1.0.4",
   "publisher": "framecode",
   "icon": "cf-b-jq.png",
   "engines": {
