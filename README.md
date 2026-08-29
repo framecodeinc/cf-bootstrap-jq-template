@@ -1,9 +1,9 @@
 # ColdFusion Bootstrap - jQuery Project Template
 <!-- Badges -->
-[![License](https://img.shields.io/github/license/framecodeinc/cf-boostrap-jq-template?label=License)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/framecodeinc/cf-boostrap-jq-template?style=social)](https://github.com/framecodeinc/cf-boostrap-jq-template)
-[![Open Issues](https://img.shields.io/github/issues/framecodeinc/cf-boostrap-jq-template)](https://github.com/framecodeinc/cf-boostrap-jq-template/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/framecodeinc/cf-boostrap-jq-template)](https://github.com/framecodeinc/cf-boostrap-jq-template/commits)
+[![License](https://img.shields.io/github/license/framecodeinc/cf-bootstrap-jq-template?label=License)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/framecodeinc/cf-bootstrap-jq-template?style=social)](https://github.com/framecodeinc/cf-bootstrap-jq-template)
+[![Open Issues](https://img.shields.io/github/issues/framecodeinc/cf-bootstrap-jq-template)](https://github.com/framecodeinc/cf-bootstrap-jq-template/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/framecodeinc/cf-bootstrap-jq-template)](https://github.com/framecodeinc/cf-bootstrap-jq-template/commits)
 
 Creates a new ColdFusion project template with Bootstrap and jQuery, with a file structure inspired by Blazor Web App.
 
